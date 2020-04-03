@@ -1,0 +1,35 @@
+- groups:
+  - group: 前言
+    items: 
+    - title: Seaborn简介
+      link: /seaborn/A01.Seaborn简介/
+  - group: Seaborn基础
+    items: 
+    - title: 安装Seaborn并开始使用
+      link: /seaborn/B01.安装Seaborn并开始使用/
+    - title: Seaborn库的导入及自带数据集
+      link: /seaborn/B02.Seaborn库的导入及自带数据集/
+    - title: Seaborn数据可视化
+      link: /seaborn/B03.Seaborn数据可视化/
+    - title: Seaborn调色板
+      link: /seaborn/B04.Seaborn调色板/
+    - title: Seaborn多面板分类图
+      link: /seaborn/B05.Seaborn多面板分类图/
+    - title: Seaborn直方图
+      link: /seaborn/B06.Seaborn直方图/
+    - title: Seaborn可视化成对关系
+      link: /seaborn/B07.Seaborn可视化成对关系/
+    - title: Seaborn内核密度估计
+      link: /seaborn/B08.Seaborn内核密度估计/
+    - title: Seaborn配对网格
+      link: /seaborn/B09.Seaborn配对网格/
+    - title: Seaborn绘制分类数据
+      link: /seaborn/B10.Seaborn绘制分类数据/
+    - title: Seaborn绘制观测值的分布
+      link: /seaborn/B11.Seaborn绘制观测值的分布/
+    - title: Seaborn统计估计
+      link: /seaborn/B12.Seaborn统计估计/
+    - title: Seaborn绘制宽格式数据
+      link: /seaborn/B13.Seaborn绘制宽格式数据/
+    - title: Seaborn绘制线性关系
+      link: /seaborn/B14.Seaborn绘制线性关系/

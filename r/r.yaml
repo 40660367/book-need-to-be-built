@@ -1,0 +1,59 @@
+- groups:
+  - group: 动手学R语言基础
+    items: 
+    - title: 如何学习本课程
+      link: /r/index
+    - title: R语言简介
+      link: /r/intro
+    - title: R语言 环境搭建及运行
+      link: /r/setup
+    - title: R语言 基础语法
+      link: /r/syntax
+    - title: R语言 基本数据类型
+      link: /r/datatype
+    - title: R语言 变量
+      link: /r/variable
+    - title: R语言 操作符
+      link: /r/operator
+    - title: R语言 逻辑判断
+      link: /r/logic
+    - title: R语言 包
+      link: /r/library
+    - title: R语言函数
+      link: /r/function
+    - title: R语言 数据类型 字符串
+      link: /r/string
+    - title: R语言 数据类型 向量
+      link: /r/vector
+    - title: R语言 数据类型 列表
+      link: /r/list
+    - title: R语言 数据类型 矩阵
+      link: /r/matrix
+    - title: R语言 数据类型 数组
+      link: /r/array
+    - title: R语言 数据类型 因子
+      link: /r/factor
+    - title: R语言 数据类型 数据帧
+      link: /r/dataframe
+    - title: R语言 绘图
+      link: /r/plot
+    - title: R语言 分布
+      link: /r/distribution
+    - title: R语言 数据操作
+      link: /r/data-operation
+    - title: R语言平均值，中位数和模式
+      link: /r/mean-median-mode
+    - title: R语言 卡方检验
+      link: /r/chisq
+    - title: R语言 决策树
+      link: /r/dt
+    - title: R语言 线性回归
+      link: /r/lm
+    - title: R语言 随机森林算法
+      link: /r/rf
+    - title: R语言 非线性最小二乘
+      link: /r/nls
+    - title: R语言 协方差分析
+      link: /r/ancova
+    - title: R语言 生存分析
+      link: /r/survival

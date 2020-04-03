@@ -1,0 +1,47 @@
+- groups:
+  - group: Python基础
+    items: 
+    - title: 如何学习本课程
+      link: /python3/index.html
+    - title: Python 简介
+      link: /python3/intro.html
+    - title: Pyhon3 环境搭建及运行
+      link: /python3/setup.html
+    - title: Python 基础语法
+      link: /python3/syntax.html
+    - title: Python3 运算符
+      link: /python3/operator.html
+    - title: Python3 基本数据类型
+      link: /python3/datatype.html
+    - title: Python3 基本数据类型-字符串
+      link: /python3/string.html
+    - title: Python3 基本数据类型-数字
+      link: /python3/number.html
+    - title: Python3 基本数据类型-列表
+      link: /python3/list.html
+    - title: Python3 基本数据类型-元组
+      link: /python3/tuple.html
+    - title: Python3 基本数据类型-字典
+      link: /python3/dict.html
+    - title: Python3 基本数据类型-集合
+      link: /python3/set.html
+    - title: Python3 数据结构
+      link: /python3/datastructure.html
+    - title: Python3 条件控制
+      link: /python3/conditional.html
+    - title: Python3 循环语句
+      link: /python3/loop.html
+    - title: Python3 迭代器与生成器
+      link: /python3/iterator-generator.html
+    - title: Python3 函数
+      link: /python3/function.html
+    - title: Python3 错误和异常
+      link: /python3/errors-execptions.html
+    - title: Python3 面向对象
+      link: /python3/class.html
+    - title: Python3 命名空间和作用域
+      link: /python3/namespace-scope.html
+    - title: Python3 模块
+      link: /python3/package.html
+    - title: Python3 标准库
+      link: /python3/stdlib.html

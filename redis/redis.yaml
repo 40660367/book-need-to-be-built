@@ -1,0 +1,31 @@
+- groups:
+  - group: 动手学Redis
+    items: 
+    - title: 如何学习本课程
+      link: /redis/index
+    - title: Redis简介
+      link: /redis/intro
+    - title: Redis连接与安全验证
+      link: /redis/connect-auth
+    - title: Redis命令
+      link: /redis/command
+    - title: Redis数据结构-键key
+      link: /redis/key
+    - title: Redis数据结构-字符串string
+      link: /redis/string
+    - title: Redis数据结构-哈希hash
+      link: /redis/hash
+    - title: Redis数据结构-列表list
+      link: /redis/list
+    - title: Redis数据结构-集合set
+      link: /redis/set
+    - title: Redis事务
+      link: /redis/trans
+    - title: Redis脚本
+      link: /redis/script
+    - title: Redis配置
+      link: /redis/config
+    - title: Redis订阅
+      link: /redis/pub-sub
+    - title: Redis性能测试
+      link: /redis/benchmark

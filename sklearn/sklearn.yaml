@@ -1,0 +1,42 @@
+- groups:
+  - group: 动手学Sklearn基础
+    items: 
+    - title: 如何学习本课程
+      link: /sklearn/index
+    - title: sklearn简介
+      link: /sklearn/intro
+    - title: sklearn安装
+      link: /sklearn/setup
+    - title: sklearn建模过程
+      link: /sklearn/modelling
+    - title: sklearn数据表示
+      link: /sklearn/data-representation
+    - title: sklearn估算器
+      link: /sklearn/estimator
+    - title: sklearn约定
+      link: /sklearn/conventions
+    - title: sklearn线性建模之线性回归
+      link: /sklearn/linear
+    - title: sklearn线性建模之逻辑回归
+      link: /sklearn/logistic
+    - title: sklearn线性建模之岭回归
+      link: /sklearn/ridge
+    - title: sklearn线性建模之贝叶斯岭回归
+      link: /sklearn/bayis
+    - title: sklearn随机梯度下降(SGD)
+      link: /sklearn/sgd
+    - title: sklearn支持向量机(SVM)
+      link: /sklearn/svm
+    - title: sklearnK近邻(KNN)
+      link: /sklearn/knn
+    - title: sklearn朴素贝叶斯分类(NBC)
+      link: /sklearn/nbc
+    - title: sklearn决策树(DT)
+      link: /sklearn/dt
+    - title: sklearn随机决策树(RF)
+      link: /sklearn/rf
+    - title: skelarn聚类(cluster)
+      link: /sklearn/cluster
+    - title: sklearn降维(PCA)
+      link: /sklearn/pca
+

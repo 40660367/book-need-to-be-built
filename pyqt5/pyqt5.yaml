@@ -1,0 +1,11 @@
+- groups:
+  - group: 前言
+    items: 
+    - title: 如何学习本课程
+      link: /pyqt5/A01.如何学习本课程/
+    - title: PyQt5简介
+      link: /pyqt5/A02.PyQt5简介/
+  - group: 基础
+    items: 
+    - title: HelloWorld
+      link: /pyqt5/B01.HelloWorld/

@@ -1,0 +1,54 @@
+- groups:
+  - group: 动手学Julia基础
+    items: 
+    - title: 如何学习本课程
+      link: /julia/index.html
+    - title: Julia简介
+      link: /julia/intro.html
+    - title: Julia环境搭建及运行
+      link: /julia/setup.html
+    - title: Julia开始
+      link: /julia/start.html
+    - title: Julia交互
+      link: /julia/repl.html
+    - title: Julia变量
+      link: /julia/variable.html
+    - title: Julia整数和浮点数
+      link: /julia/int-float.html
+    - title: Julia数学运算和基本函数
+      link: /julia/math.html
+    - title: Julia复数和分数
+      link: /julia/complex-fraction.html
+    - title: Julia数据类型 字符串
+      link: /julia/string.html
+    - title: Julia变量的作用域
+      link: /julia/scope.html
+    - title: Julia函数
+      link: /julia/function.html
+    - title: Julia方法
+      link: /julia/method.html
+    - title: Julia控制流
+      link: /julia/conditional.html
+    - title: Julia类型
+      link: /julia/type.html
+    - title: Julia构造函数
+      link: /julia/construction-function.html
+    - title: Julia类型转换和类型提升
+      link: /julia/type-convert.html
+    - title: Julia模块
+      link: /julia/module.html
+    - title: Julia日期和时间
+      link: /julia/datetime.html
+    - title: Julia元编程
+      link: /julia/meta.html
+    - title: Julia多维数组
+      link: /julia/md-array.html     
+    - title: Julia线性代数
+      link: /julia/la.html
+    - title: Julia网络和流
+      link: /julia/net-stream.html
+    - title: Julia并行计算
+      link: /julia/parallel-computation.html
+    - title: Julia可空类型
+      link: /julia/nullable.html
+
